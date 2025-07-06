@@ -1,46 +1,31 @@
-# 🚀 AI-Odyssey: Deep Dive Into Transformers and Its Applications
+# AI Odyssey: Deep Dive into CNNs for Vision Tasks
 
-Welcome to **AI-Odyssey**, a comprehensive journey into the world of **Transformer architectures** and their real-world applications. This repository contains research, implementations, experiments, and insights into one of the most revolutionary architectures in modern AI.
+A self-initiated project aimed at mastering Convolutional Neural Networks (CNNs) through hands-on implementation of scalable models for image classification and segmentation.
 
----
+## 📅 Duration
+**May 2024 – July 2024**
 
-## 📚 Table of Contents
+## 🎯 Objective
+To explore the practical applications of CNNs and build a strong foundation in deep learning by developing end-to-end vision models using real-world datasets.
 
-- [Overview](#overview)
-- [Key Topics Covered](#key-topics-covered)
-- [Project Structure](#project-structure)
-- [Setup & Installation](#setup--installation)
-- [Usage](#usage)
-- [Results & Visualizations](#results--visualizations)
-- [Future Work](#future-work)
-- [Contributors](#contributors)
-- [License](#license)
+## 🛠️ Approach
 
----
+- Studied the fundamentals of deep learning, focusing on CNN architecture and design principles.
+- Implemented CNNs from scratch and using PyTorch/Keras for:
+  - Image classification
+  - Image segmentation
+- Employed data preprocessing, augmentation, hyperparameter tuning, and model evaluation techniques.
+- Compared performance of CNNs with other deep models (e.g., Transformers, ANN).
 
-## 🌐 Overview
+## 🚀 Models & Tools Used
 
-Transformers have transformed (pun intended) the landscape of Natural Language Processing and beyond. This project aims to:
+- **Models**: Basic CNN, VGG-like networks, ResNet (optional)
+- **Libraries**: NumPy, OpenCV, PyTorch / TensorFlow / Keras
+- **Tools**: Google Colab / Jupyter Notebook, Matplotlib, Scikit-learn
 
-- Explore the theory behind Transformer models
-- Implement core architectures (e.g., Encoder-Decoder, BERT, GPT)
-- Apply transformers to tasks like text classification, summarization, translation, and vision
-- Benchmark performance and interpretability using modern tools
+## 📊 Results
 
----
-
-## 📌 Key Topics Covered
-
-- 🔹 Attention Mechanism & Self-Attention
-- 🔹 Positional Encoding
-- 🔹 Encoder-Decoder Architectures
-- 🔹 Pretrained Transformers (BERT, GPT, T5, etc.)
-- 🔹 Fine-tuning & Transfer Learning
-- 🔹 Transformers in Vision (ViT)
-- 🔹 Interpretability with SHAP/Attention Rollout
-- 🔹 Real-world Applications: NLP, Healthcare, Policy, and more
-
----
-
-
+- Achieved high accuracy on benchmark datasets like CIFAR-10 and Fashion-MNIST.
+- Learned to handle overfitting through regularization and data augmentation.
+- Visualized feature maps and filters for model interpretability.
 
