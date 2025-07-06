@@ -2,9 +2,6 @@
 
 A self-initiated project aimed at mastering Convolutional Neural Networks (CNNs) through hands-on implementation of scalable models for image classification and segmentation.
 
-## 📅 Duration
-**May 2024 – July 2024**
-
 ## 🎯 Objective
 To explore the practical applications of CNNs and build a strong foundation in deep learning by developing end-to-end vision models using real-world datasets.
 
